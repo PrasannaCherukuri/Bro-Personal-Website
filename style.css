@@ -1,0 +1,156 @@
+.navigation{
+    padding: 2%;
+    background-color: skyblue;
+    color: #fff;
+}
+
+.nav-icon{
+    margin: 15px;
+}
+
+/* title section */
+
+.title{
+  /*  border: 5px dashed black;
+    margin-top: 5px; */
+    height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color:skyblue;
+    color: white;
+}
+h1{
+    font-size: 300%;
+}
+
+/*button
+{
+    margin: 20px;
+    border-radius: 30px;
+    padding: 15px 25px;
+    border: 3px solid #fff;
+    background-color: skyblue;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    background-color: white;
+    color: skyblue;
+}
+*/
+.btn{
+    border: 3px solid #fff;
+    margin: 20px;
+    padding: 15px 25px;
+    border-radius: 30px;
+    color: #fff;
+}
+.btn:hover{
+    color:skyblue;
+    background-color: white;
+}
+
+
+/* About me section */
+.intro{
+    margin-top: 7%;
+    margin-bottom: 10%;
+    text-align: center;
+}
+/*
+.profilepic{
+    border-radius: 40%;
+    width: 40%;
+    margin-right: 4%;
+    float: left;
+}
+.about{
+    margin: 4%;
+    font-size: 120%;
+    text-align: left;
+} */
+
+.pic{
+    width: 70%;
+    border-radius: 50%;
+}
+.about1{
+    margin-top: 5%;
+    font-size: 110%;
+    text-align: left;
+}
+/* Projects */
+
+.project-section{
+    text-align: center;
+    background-color: azure;
+}
+.project-title{
+    padding: 3%;
+}
+.projects{
+    margin: 2% 7%;
+}
+.project{
+    padding-bottom: 3%;
+}
+
+.project-img{
+    height: 250px;
+    border: 1px solid black;
+}
+
+.button{
+    border: 2px solid skyblue;
+    padding: 3px 7px;
+    border-radius: 30px;
+    background-color: white;
+    color: skyblue;
+    text-decoration: none;
+}
+
+.button:hover{
+    background-color: skyblue;
+    color: white;
+}
+
+
+/* Education */
+
+.education{
+    text-align: center;
+    margin: 5%;
+}
+.edu
+{
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+    padding: 15px;
+    border: 1px solid #dcd9d9;
+    text-align: left;
+}
+h4{
+    font-weight: 500;
+    float: left;
+    margin: 0;
+    color: #374054;
+}
+span{
+    color: #74808a;
+    float: right;
+}
+.edu h6{
+    color: #74808a;
+    clear: both;
+    font-weight: 500;
+    margin: 0 0 15px 0;
+}
+.edu p{
+    margin: 0;
+    color: #74808a;
+    font-size: 0.9em;;
+}
